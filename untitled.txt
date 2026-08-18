@@ -1,0 +1,7 @@
+%run main.py --dataset amazon-book --encoder LightGCN --gcn_layer 1 --local_gamma 3 --ssl_lambda 20.0
+
+%run main.py --dataset douban-book --encoder LightGCN --gcn_layer 1 --local_gamma 1 --ssl_lambda 2.0
+
+%run main.py --dataset tmall --encoder LightGCN --gcn_layer 1 --local_gamma 1 --ssl_lambda 10.0
+
+%run main.py --dataset iFashion --encoder LightGCN --gcn_layer 1 --local_gamma 2 --ssl_lambda 2.0
