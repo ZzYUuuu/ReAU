@@ -17,7 +17,7 @@ If you find this work helpful, please cite it:
 title = {ReAU: A Global-to-Local Perspective for Refining Alignment and Uniformity in Collaborative Filtering},
 author={Zhang, Yu and Zhang, Yi and Zhang, Yiwen},
 booktitle = {Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2},
-doi={10.1145/3726302.3730111},
+doi={10.1145/3770855.3817818},
 pages = {6641–6652},
 numpages = {12},
 year={2026},
